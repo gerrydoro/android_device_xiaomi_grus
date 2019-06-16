@@ -1,26 +1,26 @@
-Copyright (C) 2018 The LineageOS Project
+Copyright (C) 2019 The LineageOS Project
 
-Device configuration for Xiaomi Mi 8
+Device configuration for Xiaomi Mi 9 SE
 =========================================
 
-The Xiaomi Mi 8 (codenamed _"dipper"_) is a high-end smartphone from Xiaomi.
+The Xiaomi Mi 9 SE (codenamed _"grus"_) is a mid-end smartphone from Xiaomi.
 
-It was announced in May 2018. Release date was June 2018.
+It was announced in February 2019. Release date was March 2019.
 
 ## Device specifications
 
 Basic   | Spec Sheet
 -------:|:-------------------------
-SoC     | Qualcomm SDM845 Snapdragon 845
-CPU     | Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.8 GHz Kryo 385 Silver)
-GPU     | Adreno 630
+SoC     | Qualcomm SDM712 Snapdragon 712 (10 nm)
+CPU     | Octa-core 2.3 GHz
+GPU     | Adreno 616
 Memory  | 6 GB RAM
-Shipped Android Version | 8.1 with MIUI 9.5
-Storage | 64/128/256 GB
-Battery | Non-removable Li-Ion 3400 mAh battery
-Display | 1080 x 2248 pixels, 18:9 ratio, 6.21 inches, Super AMOLED (~402 ppi density)
-Camera  | Dual 12 MP, 4-axis OIS, 2x optical zoom, dual PDAF, dual-LED (dual tone) flash
+Shipped Android Version | 9.0 with MIUI 10
+Storage | 64/128 GB
+Battery | Non-removable Li-Po 3070 mAh battery
+Display | 1080 x 2340 pixels, 19.5:9 ratio, 5.97 inches, Super AMOLED (~432 ppi density)
+Cameras | 48 MP, f/1.8, (wide), 1/2", 0.8µm, PDAF; 8 MP, f/2.4, (telephoto), 1.12µm, PDAF; 13 MP, f/2.4, (ultrawide), 1.12µm
 
 ## Device picture
 
-![Xiaomi Mi 8](https://xiaomi-mi.com/uploads/CatalogueImage/01_b_16982_1527780977.jpg "Xiaomi Mi 8 in black")
+![Xiaomi Mi 9 SE](https://d2giyh01gjb6fi.cloudfront.net/default/0002/91/thumb_190935_default_big.jpeg "Xiaomi Mi 9 SE in blue")
